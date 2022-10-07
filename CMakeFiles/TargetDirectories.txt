@@ -1,0 +1,3 @@
+F:/Programming/Projects/OTUS/CPP/HomeWork/HW2/CMakeFiles/hello_world.dir
+F:/Programming/Projects/OTUS/CPP/HomeWork/HW2/CMakeFiles/ALL_BUILD.dir
+F:/Programming/Projects/OTUS/CPP/HomeWork/HW2/CMakeFiles/ZERO_CHECK.dir
